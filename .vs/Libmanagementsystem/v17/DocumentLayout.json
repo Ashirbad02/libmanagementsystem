@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|d:\\library management system project\\libmanagementsystem\\libmanagementsystem\\libmanagementsystem\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminbookissuing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminbookissuing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminbookissuing.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminbookissuing.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminbookissuing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminbookissuing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminmembermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminmembermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminauthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminauthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminpublishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminpublishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminbookinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminbookinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\libmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9D41CE35-5EE1-42E9-B904-3A7A157AAEF8}|Libmanagementsystem\\Libmanagementsystem.csproj|solutionrelative:libmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminlogin.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminlogin.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminlogin.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminlogin.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\adminlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-29T05:30:09.352Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\Site1.Master.cs",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\Site1.Master.cs",
+              "RelativeToolTip": "Libmanagementsystem\\Site1.Master.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwHsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T07:00:20.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminbookissuing.aspx.cs",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookissuing.aspx.cs",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminbookissuing.aspx.cs",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookissuing.aspx.cs",
+              "RelativeToolTip": "Libmanagementsystem\\adminbookissuing.aspx.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAgwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:47:02.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "adminmembermanagement.aspx.cs",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminmembermanagement.aspx.cs",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminmembermanagement.aspx.cs",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminmembermanagement.aspx.cs",
+              "RelativeToolTip": "Libmanagementsystem\\adminmembermanagement.aspx.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAcwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:29:45.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminmembermanagement.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminmembermanagement.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminmembermanagement.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminmembermanagement.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\adminmembermanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T06:43:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\homepage.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\homepage.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\homepage.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T05:25:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "userprofile.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\userprofile.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\userprofile.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\userprofile.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\userprofile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T06:17:50.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userprofile.aspx.cs",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\userprofile.aspx.cs",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\userprofile.aspx.cs",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\userprofile.aspx.cs",
+              "RelativeToolTip": "Libmanagementsystem\\userprofile.aspx.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:18:07.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "viewbooks.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\viewbooks.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\viewbooks.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\viewbooks.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\viewbooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T06:45:47.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminbookissuing.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookissuing.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminbookissuing.aspx.designer.cs",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookissuing.aspx.designer.cs",
+              "RelativeToolTip": "Libmanagementsystem\\adminbookissuing.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:47:01.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "adminpublishermanagement.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminpublishermanagement.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminpublishermanagement.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminpublishermanagement.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\adminpublishermanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T06:45:00.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminbookissuing.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookissuing.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminbookissuing.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookissuing.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\adminbookissuing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T06:24:45.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "adminauthormanagement.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminauthormanagement.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminauthormanagement.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminauthormanagement.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\adminauthormanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T06:43:02.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "usersignup.aspx",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\usersignup.aspx",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\usersignup.aspx",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\usersignup.aspx",
+              "RelativeToolTip": "Libmanagementsystem\\usersignup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T06:47:02.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminbookInventory.aspx.cs",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookInventory.aspx.cs",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\adminbookInventory.aspx.cs",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\adminbookInventory.aspx.cs",
+              "RelativeToolTip": "Libmanagementsystem\\adminbookInventory.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:01:58.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\Site1.Master",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\Site1.Master",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\Site1.Master",
+              "RelativeToolTip": "Libmanagementsystem\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-20T06:08:45.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\Web.config",
+              "RelativeDocumentMoniker": "Libmanagementsystem\\Web.config",
+              "ToolTip": "D:\\Library Management System Project\\Libmanagementsystem\\Libmanagementsystem\\Libmanagementsystem\\Web.config",
+              "RelativeToolTip": "Libmanagementsystem\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-13T14:58:47.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
